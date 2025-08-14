@@ -1,7 +1,6 @@
 ## Hey 👋, I'm Abdalftah Abu-Khurma!
 
-<a href='https://www.linkedin.com/in/YOUR-LINKEDIN/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/YOUR-TWITTER/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/abdalftah-raid-b43808291/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 <br/>
 
@@ -17,7 +16,7 @@ I enjoy working with different technologies, focusing on **C++** and **C#**, and
 
 - 🌱 &nbsp; Always learning and exploring new technologies
 - 💻 &nbsp; Strong foundation in **OOP**, **Algorithms**, **Problem Solving**, **Data Structures**, **Database**
-- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/abdalftah-raid-b43808291/)
 - 💬 &nbsp; Happy to collaborate on interesting projects
 - 🎯 &nbsp; Goal-oriented and detail-focused in software development
 
@@ -26,8 +25,7 @@ I enjoy working with different technologies, focusing on **C++** and **C#**, and
 ### 🔨 Languages and Tools:
 <a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height='42px'/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img align="left" alt="SQL" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img align="left" alt="SQL Server" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></a>
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
 
 <br>
