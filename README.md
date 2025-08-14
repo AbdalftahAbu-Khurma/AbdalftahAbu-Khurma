@@ -14,11 +14,12 @@ I enjoy working with different technologies, focusing on **C++** and **C#**, and
   
 ### 🧐 More About Me:
 
-- 🌱 &nbsp; Always learning and exploring new technologies
-- 💻 &nbsp; Strong foundation in **OOP**, **Algorithms**, **Problem Solving**, **Data Structures**, **Database**
-- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/abdalftah-raid-b43808291/)
-- 💬 &nbsp; Happy to collaborate on interesting projects
-- 🎯 &nbsp; Goal-oriented and detail-focused in software development
+- 🌱 &nbsp; Always learning and exploring new technologies  
+- 💻 &nbsp; Strong foundation in **OOP**, **Algorithms**, **Problem Solving**, **Data Structures**, **Database**  
+- 🏆 &nbsp; Solved **1500+** problems in competitive programming and problem-solving platforms  
+- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/abdalftah-raid-b43808291/)  
+- 💬 &nbsp; Happy to collaborate on interesting projects  
+- 🎯 &nbsp; Goal-oriented and detail-focused in software development  
 
 <br>
 
@@ -31,5 +32,5 @@ I enjoy working with different technologies, focusing on **C++** and **C#**, and
 <br>
 
 ### 📊 Github Stats
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=transparent)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=transparent)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=transparent)
